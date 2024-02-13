@@ -1,0 +1,5 @@
+SaveGamesDirectory = '''C:\Users\%USERNAME%\AppData\Local\FactoryGame\Saved\SaveGames\123456789...'''
+SaveGamesNames = [
+    'MyWorld1',
+    'MyWorld2'
+]
